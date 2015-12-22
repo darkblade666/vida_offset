@@ -1,0 +1,62 @@
+-------------- Data processing information sheet ------------
+
+-------------------------------------------------------------
+
+Machine settings:
+ o Machine type       : Default
+ o Resolution (pixel) : 1920 x 1080
+ o Platform size (mm) : 140.00 x 78.75
+
+-------------------------------------------------------------
+
+Material settings:
+ o Material type      : E-Shell600
+ o Material ID        : X2TCHJVTBKL51M2K
+
+-------------------------------------------------------------
+
+Scene informations:
+ o Scene dimensions:
+    - x-Axis (mm): 27.44 [+21.46, +48.90]
+    - y-Axis (mm): 24.24 [+21.02, +45.27]
+    - z-Axis (mm): 25.88 [+0.00, +25.88]
+ o Processed data:
+    - Model   No.1: 6_be_(2)_vs.stl
+    - Model   No.2: 6_be_(2).stl
+
+-------------------------------------------------------------
+
+Raster settings:
+ o Voxel depth:
+     -  50 µm in range [0.00 - 2147483.65) mm
+ o Number of voxel data sets: 518
+
+-------------------------------------------------------------
+
+Voxel conversion settings       :
+ o Converter type               : 'DBS V3.1 (Revision 1501)'
+ o Buildfilter version          : '3.1 Standard'
+ o Plugin DLL version           : '3.1.1501.1512'
+ o Buildfilter type                     : 'Perfactory Standard'
+ o Number solid base plates     : 0
+ o Height of burn-in range      : 4
+ o Height of stardard range     : 514
+ o Support widening (µm)       : 350
+ o Support base widening (µm)  : 2000
+ o Support base height (µm)     : 500
+ o ERM module                    : Not activated
+ o Bubble Reduction                    : Not activated
+ o Number of active voxel      : 0
+ o Number of billed voxel      : 6960329
+
+-------------------------------------------------------------
+
+Part Offset
+ o Use Cubic spline interpolation o Use Cubic spline interpolation
+-------------------------------------------------------------
+
+Optic Compensation
+Not activated
+
+-------------------------------------------------------------
+
